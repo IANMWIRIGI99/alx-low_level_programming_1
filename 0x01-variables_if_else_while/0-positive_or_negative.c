@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
 /* more headers goes there */
 
@@ -23,4 +24,3 @@ int main(void)
 	}
 	return (0);
 }
-
