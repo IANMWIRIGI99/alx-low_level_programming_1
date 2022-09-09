@@ -4,9 +4,9 @@
 
 int main(void)
 {
-	int n = 0;
+/*value of zero*/
 
-	/*my working code*/
+	int n = 0;
 
 	if (n > 0)
 	{
