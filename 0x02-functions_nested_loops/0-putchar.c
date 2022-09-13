@@ -17,10 +17,10 @@ int main(void)
 	while (i <= 7)
 	{
 		c = s[i];
-		_putchar(c);
+		putchar(c);
 		i++;
 	}
-	_putchar('\n');
+	putchar('\n');
 
 return (0);
 }
